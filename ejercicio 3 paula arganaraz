@@ -1,0 +1,14 @@
+Algoritmo ejercicio3
+	Definir TOTAL_ESTUDIANTES Como Entero;
+	definir EstudiantesDormidos Como Entero
+	TOTAL_ESTUDIANTES = 15;
+	EstudiantesDormidos = 0;
+	Escribir TOTAL_ESTUDIANTES;
+	leer EstudiantesDormidos;
+	Escribir "TOTAL_ESTUDIANTES" 
+	Escribir "hoy se durmieron 15 estudiantes";
+	
+	
+
+	
+FinAlgoritmo
